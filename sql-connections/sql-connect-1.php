@@ -11,7 +11,7 @@ if (!$con)
 }
 
 
-    @mysqli_select_db($dbname1,$con) or die ( "Unable to connect to the database: $dbname1".mysqli_error());
+    @mysqli_select_db($con, $dbname1) or die ( "Unable to connect to the database: $dbname1".mysqli_error());
 
 
 

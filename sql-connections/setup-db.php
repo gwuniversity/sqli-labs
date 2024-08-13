@@ -7,12 +7,6 @@
 
 <body bgcolor="#000000">
 
-<div style=" margin-top:20px;color:#FFF; font-size:24px; text-align:center">
-Welcome&nbsp;&nbsp;&nbsp;
-<font color="#FF0000"> Dhakkan </font>
-<br>
-</div>
-
 <div style=" margin-top:10px;color:#FFF; font-size:23px; text-align:left">
 <font size="3" color="#FFFF00">
 SETTING UP THE DATABASE SCHEMA AND POPULATING DATA IN TABLES:
